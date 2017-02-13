@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MVPDemo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+	<string name="ID">ID</string>
+	<string name="first">firstname</string>
+	<string name="last">lastname</string>
+	<string name="save">保存</string>
+	<string name="load">读取</string>
+</resources>
